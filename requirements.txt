@@ -1,0 +1,7 @@
+numpy
+pandas
+Flask
+scikit-learn
+requests
+Pillow
+gunicorn == 19.9.0
