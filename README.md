@@ -6,7 +6,7 @@
 ### 3.2 Terminologies:
 ### 3.3 System Requirements:
 ### 3.4 Tools Used:
-!
+/Users/mdhas/Milton/Milton Personal/Pauline/Data Science/GitHub Readme/Amazon_Ec2_logo.png
 ### 3.5 Interfaces:
   - Input and output news articles are of text format SSH (Secure Shell)
   - SSH (Secure Shell) protocol is used to transfer text messages
