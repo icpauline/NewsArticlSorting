@@ -1,9 +1,12 @@
 # News Articl Sorting
-## 1. Introduction
-## 2. Project Scope
+## 1. Introduction:
+Data is power in today's world. Since news organizations have terabytes of data kept on servers, everyone is trying to find insights that will benefit the company. The classification of news articles stands out among the many examples I could give of how analytics is being utilized to motivate actions. There are many sites that produce a huge amount of news every day today on the Internet. Additionally, user demand for information has been steadily increasing, thus it is critical that the news be classified to enable users to quickly and effectively obtain the information of interest. In this project, the machine learning model for automatic news classification is discussed. This technique could be used to find untracked newspaper articles and/or provide personalized recommendations based on the user's past preferences.
+## 2. Project Scope:
+The HLD documentation outlines the system's architecture, including the technology architecture, application architecture (layers), application flow, and database architecture. The HLD employs simple to moderately complex terms that system administrators should be able to understand.
 ## 3. Project Methodology:
 ### 3.1 Architectural Diagram:
-<img width="436" alt="Arch" src="https://user-images.githubusercontent.com/115965062/213541207-800c4f47-aa75-4117-b4ea-e8fd747500a7.png">
+<img width="600" alt="Arch" src="https://user-images.githubusercontent.com/115965062/213541207-800c4f47-aa75-4117-b4ea-e8fd747500a7.png">
+
 ### 3.2 Terminologies:
 | Term  | Description |
 | ------------- | ------------- |
@@ -11,9 +14,9 @@
 | API  | Application Programming Interface  |
 | Flask  | Framework for deploying the model   |
 | AWS  | Amazon Web Service  |
-| EC2  | Elastic Compute Cloud   |
+| EC2  | Elastic Compute Cloud |
 | NLP  | Natural Language Processing   |
-| SSH  | Secure Shell  |
+| SSH  | Secure Shell |
 ### 3.3 System Requirements:
   - Windows 7 and above
   - SQL
@@ -23,7 +26,7 @@
   - WinSCP
   - AWS Account
 ### 3.4 Tools Used:
-<img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537318-d7fb3e62-49d4-4e3c-8714-506588afae78.png">   <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537317-8b726416-bde7-4e4e-9874-c28488d3a7dd.png">    <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537315-484a3265-9c1c-43e2-bb46-c35ab1ee64fe.png">    <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537311-6149db2a-99e6-4fb7-9d6a-9216a4c352d8.png">    <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537309-d37fad0e-65ee-4da4-a176-b5c32a2b9a0d.png">    <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537307-57662137-00eb-4472-8b30-921eb42d8d23.png">    <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537306-d646f595-9019-4c21-9573-e5f76f76e317.png">    <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537303-b020cbbc-f6ff-4942-b175-0438d7a4be1a.png">    <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537301-42266a6d-ba61-487b-90c1-627d85b783a9.png">
+<img width=“50” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537318-d7fb3e62-49d4-4e3c-8714-506588afae78.png">   <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537317-8b726416-bde7-4e4e-9874-c28488d3a7dd.png">    <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537315-484a3265-9c1c-43e2-bb46-c35ab1ee64fe.png">    <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537311-6149db2a-99e6-4fb7-9d6a-9216a4c352d8.png">    <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537309-d37fad0e-65ee-4da4-a176-b5c32a2b9a0d.png">    <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537307-57662137-00eb-4472-8b30-921eb42d8d23.png">    <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537306-d646f595-9019-4c21-9573-e5f76f76e317.png">    <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537303-b020cbbc-f6ff-4942-b175-0438d7a4be1a.png">    <img width=“90” alt="re_logo" src="https://user-images.githubusercontent.com/115965062/213537301-42266a6d-ba61-487b-90c1-627d85b783a9.png">
 ### 3.5 Interfaces:
   - Input and output news articles are of text format SSH (Secure Shell)
   - SSH (Secure Shell) protocol is used to transfer text messages
